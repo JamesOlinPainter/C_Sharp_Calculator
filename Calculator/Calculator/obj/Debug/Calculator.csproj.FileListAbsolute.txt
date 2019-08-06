@@ -1,0 +1,15 @@
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\Calculator\Calculator\obj\Debug\Calculator.pdb
